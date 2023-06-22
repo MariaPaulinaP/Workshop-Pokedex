@@ -36,7 +36,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  
-    "homepage":"https://MariaPaulinaP.github.io/Workshop-Pokedex"
-  
+  "homepage": "https://MariaPaulinaP.github.io/Workshop-Pokedex"
 }
